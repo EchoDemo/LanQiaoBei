@@ -13,8 +13,6 @@
 样例输出
 57
 
-c++语言：
-
 #include "stdafx.h"
 #include<stdio.h>
 #include<stdlib.h>
